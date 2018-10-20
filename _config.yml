@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia 
+theme: yilia
 
 jsonContent:
   meta: false
@@ -98,5 +98,5 @@ jsonContent:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/IOT-FED/iot-fed.github.io.git
+  repo: git@github.com:IOT-FED/iot-fed.github.io.git
   branch: master
