@@ -98,5 +98,6 @@ jsonContent:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  # repo: https://github.com/IOT-FED/iot-fed.github.io.git
   repo: git@github.com:IOT-FED/iot-fed.github.io.git
   branch: master
